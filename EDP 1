@@ -1,0 +1,25 @@
+MODULE 1 : EARTHQUAKE DETECTOR 
+An earthquake detector is a crucial device designed to monitor and detect seismic 
+activities in real-time, providing early warnings to minimize potential damage and loss of life. This system typically relies on sensors, such as accelerometers or seismometers, to measure ground motion and vibrations. By analyzing seismic wave patterns, the detector can distinguish between normal ground activity and potentially dangerous earthquakes. Modern earthquake detectors are often integrated with IoT (Internet of Things) networks, enabling widespread communication and alert systems that can automatically trigger safety protocols, such as shutting down critical infrastructure or alerting populations in affected areas. These devices are vital in earthquake-prone regions, contributing to disaster preparedness and risk mitigation
+
+introduction 
+The basic principle of work and warning earthquake
+detector with a vibration sensor this is when an earthquake occurs or when the dynamo (earthquake simulator) is started, the resulting vibrations cause movement of the pendulum. This pendulum movement is what will trigger the sound of the sensor. The purposes of writing this paper are to determine:  the working principle of vibration sensors can detect impending earthquakes,  the sensitivity or the sensitivity of the tool when used in detecting the vibration of an earthquake,  demonstration tool Earthquake Detection and Warning with vibration sensor has good meets criteria for use students learn. he method of this research is an a demonstration tool in learning
+OBJECTIVE:
+Design and develop a reliable earthquake detector: Create a device that can accurately detect seismic activity and provide timely warnings.
+Detect earthquakes with high sensitivity and accuracy: E
+nsure the detector can identify earthquakes with minimal false alarms and optimal detection thresholds.
+SCOPE:
+Early Warning Systems: Implementing earthquake detectors in urban areas to provide timely warnings, enabling people to seek safety before the earthquake strikes.
+Disaster Management: Utilizing earthquake detectors to quickly assess damage, identify areas of need, and allocate resources for rescue and relief efforts.
+
+MODULE 2: AUTOMATIC SCHOOL BELL 
+This project presents an innovative, automated electronic school bell system, designed to enhance efficiency and accuracy in school time management. Utilizing cutting-edge technologies such as  real-time clock modules, and wireless communication protocols, this system ensures precise bell scheduling and synchronization across the school. This automated school bell system utilizes a real-time clock module and microcontroller to ensure precise bell ringing. The system eliminates human error, enhances punctuality, and streamlines school operations. To address these issues, we propose an innovative solution: the Automatic Electronic School Bell System. 
+Introduction:
+The traditional manual school bell system has been a staple in educational institutions for decades. However, it has its limitations, including human error, inefficiency, and disruption to the learning environment. To address these issues, we propose an innovative solution: the Automatic Electronic School Bell System. Manual bell ringing can be unreliable, leading to tardiness, disruptions, and lost instructional time. Moreover, traditional bell systems often require manual operation, which can be cumbersome and prone to errors. Imagine a school environment where punctuality and discipline are enhanced, administrative tasks are streamlined, and disruptions are minimized.
+OBJECTIVE:
+ To eliminate the need for manual bell-ringing: Automate the bell-ringing process to reduce the workload of school staff and minimize the risk of human error.
+ To improve punctuality and discipline among students and staff: Implement a system that promotes a culture of punctuality and discipline, helping to create a more productive and respectful school environment.
+SCOPE:
+Improve Punctuality: Automate the bell-ringing process to ensure classes start and end on time, promoting a culture of punctuality among students and staff.2.
+Reduce Distractions: Automate the bell-ringing process to minimize disruptions and distractions, creating a more conducive learning environment
